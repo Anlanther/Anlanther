@@ -143,4 +143,5 @@
   </a>
 </p>
 
+If you like my work, [you can support me with a ko-fi](https://ko-fi.com/anlanther) 😄
 
