@@ -1,5 +1,5 @@
 <h1>Anlanther</h1>
-<h3>Curious full-stack developer that likes experiment with new skills.</h3>
+<h3>Curious full-stack developer that likes to experiment with new skills.</h3>
 
 <br/>
 
