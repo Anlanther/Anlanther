@@ -1,16 +1,13 @@
 <h1>Anlanther</h1>
 <h3>Curious full-stack developer that likes to experiment with new skills.</h3>
 
-<p>
-    I have four years of professional experience primarily focused on developing web applications. I have created projects using a variety of languages, frameworks, and tools listed below.
-</p>
-<p>
-    Even outside of work, my passion is to learn and create. Hence why I also have projects in other languages and with other tools available here. I also like collaborating and am a firm believer in learning via any form of knowledge exchange.
-</p>
-<p>
-    <span>If you appreciate my work, [you can support me with a ko-fi](https://ko-fi.com/anlanther) ☕️</span> <br />
-    <span>Alternatively, if you want to get into contact, find me on discord under the same username.</span>
-</p>
+I have four years of professional experience primarily focused on developing web applications. I have created projects using a variety of languages, frameworks, and tools listed below.
+
+Even outside of work, my passion is to learn and create. Hence why I also have projects in other languages and with other tools available here. I also like collaborating and am a firm believer in learning via any form of knowledge exchange.
+
+If you appreciate my work, [you can support me with a ko-fi](https://ko-fi.com/anlanther) ☕️.
+
+Alternatively, if you want to get into contact, find me on discord under the same username.</span>
 
 <h3>⭐️ Skills & Tools</h3>
 <h4>Languages/Frameworks:</h4>
