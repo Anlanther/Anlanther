@@ -2,7 +2,7 @@
 <h3>Curious full-stack developer that likes to experiment with new skills.</h3>
 
 <p>
-    I have three years of professional experience primarily focused on developing web applications. I have created projects using a variety of languages, frameworks, and tools listed below.
+    I have four years of professional experience primarily focused on developing web applications. I have created projects using a variety of languages, frameworks, and tools listed below.
 </p>
 <p>
     Even outside of work, my passion is to learn and create. Hence why I also have projects in other languages and with other tools available here. I also like collaborating and am a firm believer in learning via any form of knowledge exchange.
