@@ -1,7 +1,16 @@
 <h1>Anlanther</h1>
 <h3>Curious full-stack developer that likes to experiment with new skills.</h3>
 
-<br/>
+<p>
+    I have three years of professional experience primarily focused on developing web applications. I have created projects using a variety of languages, frameworks, and tools listed below.
+</p>
+<p>
+    Even outside of work, my passion is to learn and create. Hence why I also have projects in other languages and with other tools available here. I also like collaborating and am a firm believer in learning via any form of knowledge exchange.
+</p>
+<p>
+    <span>If you appreciate my work, [you can support me with a ko-fi](https://ko-fi.com/anlanther) ☕️</span> <br />
+    <span>Alternatively, if you want to get into contact, find me on discord under the same username.</span>
+</p>
 
 <h3>⭐️ Skills & Tools</h3>
 <h4>Languages/Frameworks:</h4>
@@ -49,10 +58,10 @@
       height="40"
     />
   </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-      alt="redux"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react"
       width="40"
       height="40"
     />
@@ -93,10 +102,10 @@
       height="40"
     />
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
+      src="https://playwright.dev/img/playwright-logo.svg"
+      alt="playwright"
       width="40"
       height="40"
     />
@@ -133,15 +142,13 @@
       height="40"
     />
   </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
+  <a href="https://graphql.org" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-      alt="postman"
+      src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
+      alt="graphql"
       width="40"
       height="40"
     />
   </a>
 </p>
-
-If you like my work, [you can support me with a ko-fi](https://ko-fi.com/anlanther) ☕️
 
